@@ -1,5 +1,0 @@
-running time: 2.152s
-number of iterations: 64
-the parsimony score of the best network:27681
-the best network:
-((C,(B,(A,#H0))),(D)#H0);
