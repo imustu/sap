@@ -13,13 +13,12 @@ As output, the program provides the user with a rooted binary phylogenetic netwo
 
 The program can be started by using the following command:
 
--------------------------------------------------------------------
+---------------------------------------------------------------------------
 
 java -jar SAP.jar [speciesTreeFileName] [geneSeqsFileName] [outputFileName]
 
--------------------------------------------------------------------
+---------------------------------------------------------------------------
 
-*********************************************************************************************
 CONTACT      
 *********************************************************************************************
 Please send bug reports and technical questions to Yuan Zhang at <zhangyuan@mail.imu.edu.cn>.
